@@ -1,2 +1,3 @@
-# manutencao
-manutencao de sistemas - Senai
+# Manutenção de Sistemas
+
+Repositório de testes para a disciplina de Manutenção de Sistemas - Senai
